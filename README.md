@@ -1,11 +1,11 @@
 # TO DO LIST
 
 ## Contents
-- [Introduction](https://github.com/zoeliuhy/react-todolist/edit/main/README.md#introduction)
-- [Demo](https://github.com/zoeliuhy/react-todolist/edit/main/README.md#demo)
-- [Tech](https://github.com/zoeliuhy/react-todolist/edit/main/README.md#tech)
-- [Setup Locally](https://github.com/zoeliuhy/react-todolist/edit/main/README.md#setup-locally)
-- [Structure](https://github.com/zoeliuhy/react-todolist/edit/main/README.md#structure)
+- [Introduction](https://github.com/zoeliuhy/react-todolist#introduction)
+- [Demo](https://github.com/zoeliuhy/react-todolist#demo)
+- [Tech](https://github.com/zoeliuhy/react-todolist#tech)
+- [Setup Locally](https://github.com/zoeliuhy/react-todolist#setup-locally)
+- [Structure](https://github.com/zoeliuhy/react-todolist#structure)
 
 ## Introduction
 This is a todo list that built up with React.js, included the function of CRUD, as well as the function of filtering finished and unfinished tasks.
